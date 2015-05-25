@@ -1,3 +1,3 @@
 # FirstRep
-First attempt
+First attempt.
 It's my tutor.
